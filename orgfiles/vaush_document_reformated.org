@@ -1,0 +1,1397 @@
+#+OPTIONS: toc:nil prop:t d:metadata_mf
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+TOC: headlines 2
+#+EXCLUDE_TAGS: noexport INTERNAL
+#+latex_header: \usepackage{titletoc}
+#+latex_header: \usepackage{hyperref} % for autoref in org ref
+# #+title: 
+
+\newpage
+* Institutional Racism in USA
+Vaush note:
+This entire section is credited to Rose Wrist, a former guest of the
+stream. ([[https://www.youtube.com/channel/UC3rSgPl8_RLMBHHsjaY7VAA][Rose Wrist youtube channel]], [[https://www.instagram.com/left__ty/][instagram]])
+
+** General researchs
+
+They are near-entirely responsible for the collection of this data.
+Seriously, I just ripped most of this from their document - with their
+permission, of course. I'm only broadcasting their incredible work with
+my much larger audience.
+
+*** Black Lives Matter: Eliminating racial inequity in the criminal justice system
+:PROPERTIES:
+:author:   Nazgol Ghandnoosh
+:host:     The sentencing project
+:date:     2015-02
+:END:
+([[https://www.sentencingproject.org/wp-content/uploads/2015/11/Black-Lives-Matter.pdf][link]])
+
+*Extensive document on racial biases* in our criminal justice
+system.
+
+- Studies seem to indicate *about 61-80% of black overrepresentation in
+  prisons* can be explained by *higher black crime rates*, with the
+  unexplained portion largely attributable to *racial bias*.
+
+- Remember - the factors which lead to *disproportionate criminality*
+  amongst black Americans are also in large part a *product of racial
+  bias*. Underfunded public programs, redlining, generational poverty,
+  bad schooling, and myriad other factors which *influence criminality*
+  can also be traced to *racial bias*.
+
+*** Investigation of the Ferguson Police Department
+:PROPERTIES:
+:host:     United States Department of Justice
+:date:     2015-03-04
+:END:
+([[https://www.justice.gov/sites/default/files/opa/press-releases/attachments/2015/03/04/ferguson_police_department_report.pdf][link]])
+
+- Between 2012 and 2014, *black people in Ferguson* accounted for *85
+  percent of vehicle stops, 90 percent of citations and 93 percent of
+  arrests*, despite comprising *67 percent of the population.*
+
+- *Blacks were more than twice as likely* as whites to be searched after
+  traffic stops even after controlling for related variables, though
+  *they proved to be 26 percent less likely* to be in possession of
+  *illegal drugs or weapons.*
+
+- Between 2011 and 2013,* blacks also received 95 percent of jaywalking
+  tickets and 94 percent of tickets for “failure to comply.”* The
+  Justice Department also found that the* racial discrepancy for
+  speeding tickets increased dramatically* when researchers looked at
+  tickets based on only an officer's word vs. tickets *based on
+  objective evidence*, such as a radar.
+
+- Black people facing *similar low-level charges as white people* were*
+  68 percent less likely to see those charges dismissed in court. More
+  than 90 percent *of the arrest warrants stemming from failure to
+  pay/failure to appear *were issued for black people.*
+
+*** An opinion aticle summarizing the matter
+:PROPERTIES:
+:date:     2020-06-10
+:author:   Radley Balko
+:host:     The Washington Post
+:END:
+([[https://www.washingtonpost.com/graphics/2020/opinions/systemic-racism-police-evidence-criminal-justice-system/#Bail][link]])
+
+** *Biases in Stops, Searches & Arrests*
+*** The Concentrated Racial Impact of Drug Imprisonment and the Characteristics of Punitive Counties
+:PROPERTIES:
+:date:     2007-12-04
+:host:     Justice Policy Institute
+:author:   Phillip Beatty, Amanda Petteruti, Jason Ziedenberg
+:END:
+([[https://justicepolicy.org/research/the-vortex-the-concentrated-racial-impact-of-drug-imprisonment-and-the-characteristics-of-punitive-counties/][link]])
+- While White & Black Americans
+  *admit to using and selling illicit drugs at similar rates*, Black
+  Americans are *VASTLY more likely to go to prison* for a drug
+  offense.
+
+- In 2002, *Black Americans were incarcerated for drug offenses at TEN
+  TIMES* the rate of White Americans.
+
+- Today, *Blacks are 3.7x as likely to be arrested for a marijuana
+  offense* as Whites, *despite similar usage*.
+
+- *97% of “large-population counties”* have *racial biases* in their
+  drug offense incarceration.
+
+*** Militarization fails to enhance police safety or reduce crime but may harm police reputation
+:PROPERTIES:
+:author:   Jonathan Mummolo
+:date:     2018-08-20
+:doi:      https://doi.org/10.1073/pnas.1805161115
+:END:
+([[https://www.pnas.org/content/115/37/9181][link]])
+- *Police militarization does not lead to a
+  decrease* in crimes committed or officer injuries, *may actually
+  increase both*.
+
+- Police militarization (including the adoption of SWAT teams)
+  *decreases public trust in police*, which may contribute to* increases
+  in crime*.
+
+- Militarized police are *disproportionately deployed in African
+  American communities*, even when *accounting for crime rates*.
+  
+*** Racial Disparities In Stops by the D.C. metropolitan police department: review of five months of data
+:PROPERTIES:
+:date:     2020-06-20
+:host:     ACLU
+:END:
+([[https://www.acludc.org/sites/default/files/2020_06_15_aclu_stops_report_final.pdf][link]])
+- This *ACLU report* reviews 5 months'of data from *DC police stops &
+  searches* by *race and outcome*.
+
+- The *black population of DC* is* 25% greater than the white
+  population*, but black people were *410% more likely to be stopped* by
+  the police than *white people*
+
+- This disparity* increases to 1465%* for stops which led to no warning,
+  ticket or arrest and *3695% for searches* which led to no warning,
+  ticket or arrest.
+
+- This data indicates the *disproportionate stopping and searching of
+  blacks in the DC area* extended *massively beyond *any
+  *disproportionate rate of criminality.*
+
+*** The Problem of Infra-marginality in Outcome Tests for Discrimination
+:PROPERTIES:
+:author:   Camelia Simoiu, Sam Corbett-Davies, Sharad Goel
+:date:     2017-06-20
+:doi:      https://doi.org/10.48550/arXiv.1607.05376
+:END:
+([[https://arxiv.org/pdf/1607.05376.pdf][link]])
+
+- Analysis of *4.5 million traffic stops in North Carolina* shows blacks
+  and latinos were *more likely to be searched than whites* (5.4
+  percent, 4.1 percent and 3.1 percent, respectively).
+
+- Despite this, *searches of white motorists were the most likely to
+  reveal contraband* (32% of whites, 29% of blacks, 19% of latinos).
+
+*** Driving while black, Nashville study
+:PROPERTIES:
+:author:   Gideon's Army
+:date:     2016-08-25
+:END:
+([[https://drivingwhileblacknashville.files.wordpress.com/2016/10/driving-while-black-gideons-army.pdf][link]])
+- Between 2011 and 2015, *black drivers in Nashville's Davidson County*
+  were *pulled over at a rate of 1,122 stops per 1,000 drivers* ---so on
+  average, *more than once per black driver.*
+
+- Black drivers were also *searched at twice the rate of white drivers,
+  though *---as in other jurisdictions ---*searches of white drivers
+  were more likely to turn up contraband.*
+  
+*** A large-scale analysis of racial disparities in police stops across the United States
+:PROPERTIES:
+:host:     Nature Human Behavior
+:author:   Emma Pierson, Camelia Simoiu, Jan Overgoor, Sam Corbett-Davies, Daniel Jenson, Amy Shoemaker, Vignesh Ramachandran, Phoebe Barghouty, Cheryl Phillips, Ravi Shroff, Sharad Goel
+:doi:      https://doi.org/10.1038/s41562-020-0858-1
+:date:     2020-06
+:END:
+([[https://www.nature.com/articles/s41562-020-0858-1.pdf][link]])
+
+- */Enormous/ study* of nearly* 100,000,000 traffic stops* conducted
+  across America.
+
+- Analysis finds *the bar for searching black and hispanic drivers'cars*
+  is *significantly lower *than the bar for white drivers.
+
+- Additionally, *black drivers are less likely to be pulled over after
+  sunset,* when “a ‘veil of darkness'* masks ones'race”*
+
+Abstract:
+
+We assessed racial disparities in policing in the United States by
+compiling and analysing a dataset detailing nearly 100 million traffic
+stops conducted across the country. We found that black drivers were
+less likely to be stopped after sunset, when a ‘veil of darkness’
+masks one’s race, suggesting bias in stop decisions. Furthermore, by
+examining the rate at which stopped drivers were searched and the
+likelihood that searches turned up contraband, we found evidence that
+the bar for searching black and Hispanic drivers was lower than that
+for searching white drivers. Finally, we found that legalization of
+recreational marijuana reduced the number of searches of white, black
+and Hispanic drivers—but the bar for searching black and Hispanic
+drivers was still lower than that for white drivers
+post-legalization. Our results indicate that police stops and search
+decisions suffer from persistent racial bias and point to the value of
+policy interventions to mitigate these disparities.
+
+** *Biases by Judges, Juries & Prosecutors*
+*** Demographic Differences in Sentencing: An Update to the 2012 Booker Report
+:PROPERTIES:
+:author:   Glenn R. Schmitt, J.D., M.P.P., Louis Reedt, Sc.D., Kevin Blackwell
+:host:     United States Sentencing Commission
+:date:     2017-11
+:END:
+([[https://www.ussc.gov/sites/default/files/pdf/research-and-publications/research-publications/2017/20171114_Demographics.pdf][link]])
+
+- Extensive multivariate regression analysis indicates* black male
+  offenders receive 19.1% longer federal sentences than
+  similarly-situated white male offenders* (white male offenders with
+  similar past offenses, socioeconomic background, etc.)
+
+- This disparity seems to stem mostly from *black males being 21.2% less
+  likely to receive non-government sponsored downward departures or
+  variances*.
+
+  - *Non-government sponsored departures and variances* refer to
+    deviations from standard sentencing guidelines due to* judicial
+    discretion*.
+
+- Black males who *do receive* non government-sponsored departures and
+  variations *still serve 16.8% longer sentences than white males on
+  average*.
+
+- In contrast, *when sentencing length follows standard guidelines, that
+  disparity is only 7.9%*, and a substantial assistance departure for
+  both groups *nullifies that disparity*.
+
+- *_IN__ __SUMMARY_* - much of the sentencing disparity between*
+  similarly situated black males and white males* comes down to*
+  judicial discretion* to *deviate from standard sentencing guidelines.*
+
+- *_BONUS_ -* regression analysis suggests *violence in a criminal's
+  history does NOT *explain *sentencing disparities between black males
+  and similarly situated white males* - the effect of that factor seems
+  to be *statistically insignificant.*
+
+- ADDENDUM - Some have asked me to clarify a sentence at the end of
+  this report, where its authors write it cannot be used to prove
+  discrimination on the part of judges. First, that disclaimer warns
+  against inferring active discrimination as opposed to implicit
+  bias - the disclaimer does not say the report cannot be used to
+  prove implicit bias. Second, researchers are often quick to point
+  out their research cannot prove a point, especially regarding
+  intent. It can only strongly suggest a point - natural limitation of
+  multivariate regression analysis.
+
+*** Racial Disparity in Federal Criminal Sentences
+:PROPERTIES:
+:date:     2014
+:author:   M. Marit Rehavi, Sonja B. Starr
+:host:     Faculty Scholarship at University of Michigan Law School Scholarship Repository
+:END:
+([[https://repository.law.umich.edu/cgi/viewcontent.cgi?referer=https://www.washingtonpost.com/news/wonk/wp/2017/11/16/black-men-sentenced-to-more-time-for-committing-the-exact-same-crime-as-a-white-person-study-finds/?noredirect=on&utm_term=.2e26662cc5f3&httpsredir=1&article=2413&context=articles][link]])
+
+- Examination of *federal data* indicates Black Americans spend about
+  *10% more time in prison *when compared to comparable Whites who
+  *commit the same crimes.*
+
+- Additionally,* Black arrestees are 75% more likely* to be charged with
+  a crime carrying a *mandatory minimum sentence.*
+
+- Prosecutors contribute massively to this *undeniable racial bias.???*
+
+*** Different Shades of Bias: Skin Tone, Implicit Racial Bias, and Judgments of Ambiguous Evidence
+:PROPERTIES:
+:host:     West Virginia University
+:author:   Justin D. Levinson, Danielle Young
+:date:     2010-01
+:END:
+([[https://researchrepository.wvu.edu/cgi/viewcontent.cgi?article=1315&context=wvlr][link]])
+
+- In this study,* two groups of mock jurors were given a collection of
+  race-neutral evidence *from an armed robbery, with *one group's
+  alleged perpetrator* being shown to be *light-skinned* and the other
+  *dark-skinned.*
+
+- Jurors were *significantly more likely to evaluate ambiguous,
+  race-neutral evidence against the dark-skinned suspect as
+  incriminating* and more likely to *find the dark-skinned suspect
+  guilty.*
+
+*** Plea and Charge Bargaining
+:PROPERTIES:
+:author:   Lindsey Devers
+:date:     2011-01-24
+:host:     United States Department of Justice, Bureau of Justice Assistance
+:END:
+([[https://bja.ojp.gov/sites/g/files/xyckuh186/files/media/document/PleaBargainingResearchSummary.pdf][link]])
+
+Government aggregate of data on plea and charge bargaining
+
+- “Studies that assess the effects of race find that blacks are less
+  likely to receive a reduced charge compared with whites.”
+
+- “Studies have generally found a relationship between race and
+  whether or not a defendant receives a reduced charge.”
+
+- “The majority of research on race and sentencing outcomes shows that
+  blacks are less likely than whites to receive reduced pleas.“
+
+- In short, collected data *strongly indicates a racial bias against
+  blacks* with regards to sentencing and plea bargains.
+
+*** Mandatory Sentencing and Racial Disparity: Assessing the Role of Prosecutors and the Effects of Booker
+:PROPERTIES:
+:author:   Sonja B. Starr, M. Marit Rehavi
+:date:     2013-10
+:host:     Yale Law Journal
+:END:
+([[https://www.yalelawjournal.org/article/mandatory-sentencing-and-racial-disparity-assessing-the-role-of-prosecutors-and-the-effects-of-booker][link]])
+- Black men are *twice as likely* to have charges which carry
+  *mandatory minimum sentences* filed against them than
+  *similarly-situated white men*
+
+- This article* recommends against the tightening of judicial
+  discretion*, arguing that process has historically led to* greater
+  racial sentencing disparities*.
+
+*** Race, Ethnicity, and Habitual-Offender Sentencing 
+:PROPERTIES:
+:author:   Matthew S. Crow, Kathrine A. Johnson
+:date:     2008-03
+:host:     SAGE journals
+:doi:      10.1177/0887403407308476
+:END:
+([[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.821.8079&rep=rep1&type=pdf][link]])
+
+A Multilevel Analysis of Individual and Contextual Threat
+
+- Black defendants with* multiple prior convictions* are *28% more
+  likely* to be charged as *“habitual offenders”* than
+  similarly-situated white defendants
+  
+- “Assessments of dangerousness and culpability are linked to race and
+  ethnicity, even after offense seriousness and prior record are
+  controlled.”
+
+*** Skin Color and the Criminal Justice System
+:PROPERTIES:
+:host:     Journal of Empirical Legal Studies
+:author:   Traci Burch
+:date:     2015-09
+:doi:      https://doi.org/10.1111/jels.12077
+:END:
+([[https://doi.org/10.1111/jels.12077][link]])
+
+Skin Color and the Criminal Justice System, Beyond Black-White
+Disparities in Sentencing
+
+Journal of Empirical Legal Studies
+
+
+- A study of *first-time felons* in Georgia found black men received
+  sentences of *on average 270 days longer* than similarly-situated
+  white males
+  
+- However, when black males were *differentiated by skin tone*, it was
+  found *light-skinned black men* saw *virtually no disparity in their
+  sentencing* while *dark-skinned black men* actually saw a disparity of
+  around 400 days in prison.
+
+*** Examining Racial and Ethnic Disparities in Probation Revocation
+:PROPERTIES:
+:author:   Jesse Jannetta, Justin Breaux, And Helen Ho, Jeremy Porter
+:date:     2014-04
+:host:     Urban Institute
+:END:
+([[https://www.urban.org/sites/default/files/publication/22746/413174-Examining-Racial-and-Ethnic-Disparities-in-Probation-Revocation.PDF][link]])
+
+Summary Findings and Implications from a Multisite Study
+
+- The Urban Institute analyzed the histories of *four probation
+  offices* and found *black people were 18-39% more likely* than
+  similarly-situated white people to *have their probation revoked.*
+  
+*** broken links
+**** Report on Jury Selection Study
+:PROPERTIES:
+:END:
+([[https://digitalcommons.law.msu.edu/cgi/viewcontent.cgi?article=1330&context=facpubs][link]])
+- Between 1990 and 2010, *state prosecutors struck about 53% of black
+  people eligible for juries in criminal cases, as opposed to 26% of
+  white people*. The study's authors testified the *odds of this taking
+  place in a race-neutral context* were around [[https://files.deathpenaltyinfo.org/legacy/documents/RobinsonRJAOrder.pdf][1 in 10 trillion]].
+
+- After *accounting for factors* prosecutors select for which tend to
+  correlate with race, *black people were still struck twice as often*.
+
+- North Carolina's state legislator had [[https://urldefense.proofpoint.com/v2/url?u=https-3A__www.ncleg.net_Sessions_2009_Bills_Senate_PDF_S461v6.pdf&d=DwMFaQ&c=RAhzPLrCAq19eJdrcQiUVEwFYoMRqGDAXQ_puw5tYjg&r=nbKK7coza-77jenLzGL-ANiuQ3Xcws_fKsT8_vAbPP4&m=ZLM6jx8CaY2x8m7oQKacYJlnuPN-KG2S1kqUiCMqnbw&s=G7JBM32bKJupB5iusv-Ji92zU1Xkba_F7IFIX0VPtLY&e=][previously passed a law]]
+  stating death penalty defendants who could demonstrate racial bias
+  in their jury selection* could have their sentences changed to life
+  without parole. The legislature later [[https://urldefense.proofpoint.com/v2/url?u=https-3A__www.cnn.com_2013_06_20_justice_north-2Dcarolina-2Ddeath-2Dpenalty_index.html&d=DwMFaQ&c=RAhzPLrCAq19eJdrcQiUVEwFYoMRqGDAXQ_puw5tYjg&r=nbKK7coza-77jenLzGL-ANiuQ3Xcws_fKsT8_vAbPP4&m=ZLM6jx8CaY2x8m7oQKacYJlnuPN-KG2S1kqUiCMqnbw&s=Yprt_u3uqnTO4nLf17ylIKGig2J5_Kjb52j9tnPX-PU&e=][repealed that law]].
+
+**** ?
+- A study of bail in 5 large counties found *blacks received
+  significantly higher bail *than whites who had* committed similar
+  crimes* ([[https://sci-hub.tw/https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1990324][link]])
+  
+- The bail was *$7,000 higher* for violent crimes,* $13,000 higher* for
+  drug crimes and *$10,000* higher for crimes related to public order.
+
+** *Biases in Death Penalty Sentencing*
+*** The Role Of Race In Washington State Capital Sentencing, 1981‐2014
+:PROPERTIES:
+:author:   Katherine Beckett, Heather Evans
+:host:     Death Penalty Info
+:date:     2014
+:END:
+
+([[https://files.deathpenaltyinfo.org/legacy/documents/WashRaceStudy2014.pdf][link]])
+
+Analysis of 33 years of data from Washington State to *determine
+which characteristics best predict the decision* to implement a
+*death sentence.*
+
+- *Black defendants* are* 4.5 times *as likely to receive a* death
+  sentence* as similarly-situated whites.
+
+- *Other factors* (presence of aggravating circumstances, involvement of
+  sex crimes, hostage-taking, etc.) explain only a* small fraction of
+  the disparity* in prosecutors'and juries'decision to* invoke the death
+  penalty against black defendents.*
+
+- *Race* was by far the* most influential statistical factor.*
+
+*** Looking Deathworthy
+:PROPERTIES:
+:author:   Jennifer L. Eberhardt, Paul G. Davies, Valerie J. Purdie-Vaughns, and Sheri Lynn Johnson
+:date:     2005-07-27
+:host:     Psychological Science
+:END:
+([[https://www.uky.edu/AS/PoliSci/Peffley/pdf/Eberhardt.2006.Psych%20Sci.Looking%20Deathworthy.pdf][link]])
+PSYCHOLOGICAL SCIENCE
+
+Research Report, 
+
+Looking Deathworthy
+
+Perceived Stereotypicality of Black Defendants Predicts Capital-Sentencing Outcomes
+
+- Analysis of the relationship between *racial stereotyping* and *death
+  sentence convictions*.
+
+- Black defendants who *possessed darker skin* and more
+  *“stereotypically black”features* were *twice as likely to be given
+  the death penalty* when accused of* murdering a white person*, as
+  compared to *lighter-skinned blacks *with* less “stereotypically
+  black*”features.
+
+- This disparity* disappears completely* when the murder victim is
+  *black*.
+
+** *Implicit Bias*
+
+*** Does Appearance Matter?: The Effect Of Skin Tones On Trustworthy And Innocent Appearances
+:PROPERTIES:
+:author:   Conner Key Birdsong
+:date:     2017
+:doctype:  Thesis
+:END:
+([[https://ir.ua.edu/bitstream/handle/123456789/3276/file_1.pdf][link]])
+
+*Photos of capital inmates *shown to entry-level *criminal justice
+students* for them to *evaluate the trustworthiness *of the faces.
+
+- Students rated pictures of* light-skinned inmates as more trustworthy*
+  when they preceded *pictures of dark-skinned inmates.*
+
+- *Most study participants (79.9%) were white, but the study predicted
+  that this wasn't a major factor* - “When controlling for race, no
+  statistically significant result was found. This suggests that each
+  race, White and non-White, were consistent in their rating outcomes.
+  *Prior research has found similar results, where Whites and
+  light-skinned Blacks are likely to share similar attitudes towards
+  darker-skinned Blacks”*
+
+*** Black Boys Viewed as Older, Less Innocent Than Whites, Research Fin
+:PROPERTIES:
+:host:     Journal of Personality and Social Psychology
+:date:     2014
+:END:
+
+([[https://www.apa.org/news/press/releases/2014/03/black-boys-older][link]])
+
+*Students and police officers* participated in tests to determine*
+levels of racial bias and perception of innocence.*
+
+- *Black boys as young as 10* are more likely to be *considered criminal
+  or untrustworthy,* and more likely to face police violence.
+
+- Police officers were* tested on dehumanization of blacks* by comparing
+  people of different races to animal groups. Police who engaged in
+  *higher levels of dehumanization *were more likely to use *violence
+  against black children.*
+
+*** Racial Bias in Judgments of Physical Size and Formidability: From Size to Threat
+:PROPERTIES:
+:author:   John Paul Wilson, Kurt Hugenberg, Nicholas O. Rule
+:doi:      http://dx.doi.org/10.1037/pspi0000092
+:host:     Journal of Personality and Social Psychology
+:date:     2017
+:END:
+
+([[https://www.apa.org/pubs/journals/releases/psp-pspi0000092.pdf][link]])
+
+Results from *three separate studies on perception and racial bias*
+show people have a tendency to perceive *black men as larger and more
+threatening than similarly sized white men*.
+
+- Participants also *believed the black men were more capable of causing
+  harm* in a hypothetical altercation and *police would be more
+  justified in using force to subdue them*, even if the men were
+  unarmed.
+
+* LGBTQ Issues
+** Transgender People are Valid
+
+- *Forward -*/ an incomplete list of the reputable scientific & social
+  organizations which affirm the validity of transgender people (that
+  transness is not an illness, that trans people are deseving of respect
+  and equal rights, etc). This also serves as a list of the institutions
+  which recognize the difference between sex and gender./
+
+  - American Psychological Association
+
+  - American Medical Association
+
+  - American Psychoanalytic Association
+
+  - Human Rights Campaign
+
+  - American Academy of Pediatrics
+
+  - American College of Osteopathic Pediatricians
+
+  - United Nations
+
+  - United Kingdom's National Health Service
+
+- [[https://www.apa.org/topics/lgbt/transgender][link]]
+  - *American Psychological Association* pamphlet on transgender issues
+
+  - Affirms psychological consensus - that transgender people *are
+    valid*, have *existed throughout history*, are *subject to
+    discrimination*, and that transness is *not a mental disorder*.
+
+- [[https://www.apa.org/about/policy/resolution-gender-identity.pdf][link]]
+  - A 2008 *Gender Identity Resolution *by the* American Psychological
+    Association* which expands upon the premises listed in the
+    annotation above and supports total equality for transgender
+    people - affirmation of the *institutional legitimacy of transness*
+    in psychology.
+
+- [[https://www.apa.org/about/policy/orientation-diversity][link]]
+  - *Identical to the above*, essentially, except pertaining to *trans
+    and gender-nonconforming youth*.
+
+- [[https://www.apa.org/about/policy/booklet.pdf][link]]
+  - *Booklet on LGBTQ issues* from the *American Psychological
+    Association*, outlining their *policy and attitudes* towards
+    aforementioned communities.
+
+  - *Expressly positive*.
+
+- [[https://assets2.hrc.org/files/documents/SupportingCaringforTransChildren.pdf][link]]
+  - *Human Rights Campaign* document published with the *American
+    Academy of Pediatrics* & the *American College of Osteopathic
+    Pediatricians* which affirms the validity of *transgender youth*,
+    encourages *appropriate care and respect* for their transness and
+    provides resouces on how to do so.
+
+- [[https://www.nhs.uk/conditions/gender-dysphoria/][link]]
+  - The UK's *National Health Service* report on *gender dysphoria*,
+    which affirms the *validity of trans people* and discusses ways in
+    which* gender dysphoria* can be alleviated, the best of which is
+    said to often be *social and physical transition*.
+
+- [[http://www.apsa.org/content/2012-position-statement-attempts-change-sexual-orientation-gender-identity-or-gender][link]]
+  - The *American Psychoanalytic Association's* statement on gender
+    identity, in which *transness is validated*, social stigma against
+    transgender people is cited as a serious cause of harm and
+    ‘*reparative therapy*'- attempts to suppress one's transness and
+    force them to live as the gender they were assigned at birth - *is
+    medically invalid*.
+
+- [[https://time.com/5596845/world-health-organization-transgender-identity/][link]]
+  - The* World Health Organization* recently stopped classifying
+    *transness *as a *mental disorder*.
+
+- [[https://www.babcp.com/files/About/Press/Memorandum-of-Understanding-on-Conversion-Therapy-in-the-UK.pdf][link]]
+  - Multilateral *condemnation* of ‘conversion therapy'from *essentially
+    every medical institution in the United Kingdom*, with reasons
+    provided.
+
+- [[https://www.unfe.org/about/][link]]
+  - Transphobia? The *United Nations* says no.
+
+** Gender Transition has a Positive Effect on Trans People
+
+*** Cornell University meta analysis
+:PROPERTIES:
+:date:     2017-06
+:END:
+
+"What does the scholarly research say about the effect of gender
+transition on transgender well-being?"
+
+([[https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-well-being-of-transgender-people/][link]])
+
+- *ENORMOUS* meta-meta-analysis on transgender people and the effect
+  gender transition has on their mental health
+
+- *Of 56 studies, 52 *indicated transitioning has a* positive effect* on
+  the mental health of transgender people and *4* indicated it had*
+  mixed or no results*.
+
+- *ZERO* studies indicated gender transitioning has *negative results*
+
+- *This pretty much ends the argument right here.*
+
+"This search found a robust international consensus in the
+peer-reviewed literature that gender transition, including medical
+treatments such as hormone therapy and surgeries, improves the overall
+well-being of transgender individuals. The literature also indicates
+that greater availability of medical and social support for gender
+transition contributes to better quality of life for those who
+identify as transgender."
+
+*** Young Adult Psychological Outcome After Puberty Suppression and Gender Reassignment
+:PROPERTIES:
+:author:   Annelou L.C. de Vries, Jenifer K. McGuire, Thomas D. Steensma, Eva C.F. Wagenaar, Theo A.H. Doreleijers, Peggy T. Cohen-Kettenis
+:date:     2014-10-01
+:END:
+
+([[https://pediatrics.aappublications.org/content/134/4/696][link]])
+
+- Longitudinal study on the *effectiveness of puberty suppression & sex
+  reassignment surgery* on trans individuals in improving mental
+  outcomes
+
+- *Unambiguously positive results* - results indicate puberty
+  suppression, support of medical professionals & SRS have markedly
+  *beneficial outcomes* to trans individuals'mental health and
+  productivity.
+
+*** Hormonal therapy and sex reassignment
+:PROPERTIES:
+:author:   Mohammad Hassan Murad, Mohamed B. Elamin, Magaly Zumaeta Garcia, Rebecca J. Mullan, Ayman Murad, Patricia J. Erwin, Victor M. Montori
+:doi:      https://doi.org/10.1111/j.1365-2265.2009.03625.x
+:date:     2010-01-19
+:host:     Clinical Endocrinology
+:END:
+
+Hormonal therapy and sex reassignment: a systematic review and
+meta-analysis of quality of life and psychosocial outcomes
+
+([[https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2265.2009.03625.x][link]])
+- Meta-analysis of studies concerning individuals who underwent *sex
+  reassignment surgery*
+
+- *80%* of individuals reported significant improvement in *dysphoria*
+
+- *78%* of individuals reported significant improvement in
+  *psychological symptoms*
+
+- *72%* of individuals reported significant improvement in *sexual
+  function*
+
+*** Mental Health and Self-Worth in Socially Transitioned Transgender Youth
+:PROPERTIES:
+:author:   Lily Durwood, Katie A. McLaughlin, Kristina R. Olson
+:date:     2016-11-26
+:doi:      https://doi.org/10.1016/j.jaac.2016.10.016
+:host:     Journal of the American Academy of Child & Adolescent Psychiatry
+:END:
+
+([[https://www.jaacap.org/article/S0890-8567%2816%2931941-4/fulltext][link]])
+
+- *Children who socially transition* report levels of depression and
+  anxiety which *closely match* levels reported by *cisgender children*,
+  indicating social transition massively decreases the risk factor of
+  both.
+
+*** San Diego clinic finds high need for treatment of transgender youth
+:PROPERTIES:
+:date:     2015-03-07
+:host:     The Endocrine Society
+:END:
+
+([[https://www.eurekalert.org/pub_releases/2015-03/tes-sdc030615.php][link]])
+
+- “A new study has confirmed that transgender youth often have mental
+  health problems and that their depression and anxiety improve
+  greatly with recognition and treatment of gender dysphoria”
+
+*** Quality of life of treatment-seeking transgender adults
+:PROPERTIES:
+:author:   Anna Nobili, Cris Glazebrook, Jon Arcelus
+:doi:      10.1007/s11154-018-9459-y
+:date:     2018-08-18
+:host:     National Library of Medicine
+:END:
+
+Quality of life of treatment-seeking transgender adults: A systematic
+review and meta-analysis
+
+- Longitudinal study which indicates *transgender people* have a* lower
+  quality of life* than the general population.
+
+- However, that quality of life *raises dramatically* with ‘*Gender
+  Affirming Treatment*' the nature of which is detailed extensively
+  in-text.
+
+*** broken link
+:PROPERTIES:
+:host:     World Professional Association for Transgender Health
+:END:
+([[https://www.wpath.org/media/cms/Documents/SOC%20v7/Standards%20of%20Care_V7%20Full%20Book_English.pdf][link]])
+- *Extensive and incredibly interesting document* on the standards of
+  care for *transgender *and *gender-nonconforming *individuals.
+
+- A good read, but *won't win you any arguments.*
+
+** Trans People in Sports
+*** Sport and Transgender People
+:PROPERTIES:
+:doi:      10.1007/s40279-016-0621-y
+:date:     2016-10-03
+:author:   Bethany Alice Jones, Jon Arcelus, Walter Pierre Bouman, Emma Haycraft
+:host:     Sport Medicine Springer
+:END:
+
+Sport and Transgender People: A Systematic Review of the Literature
+Relating to Sport Participation and Competitive Sport Policies
+
+([[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5357259/][link]])
+- Meta-analysis covering prior research on *trans
+  individuals'performance in sports* and preexisting *sports policies*
+  concerning trans people
+
+- Findings show there is *no consistent or direct research* indicating
+  transgender women have an *unfair athletic advantage* at any *stage of
+  their transition*.
+
+- Additional findings show most sports policies are* not evidence-based*
+  and trans individuals experience *substantial discrimination* from
+  sports institutions.
+
+** Sex is Complicated and not a Binary
+:PROPERTIES:
+:author:   Amanda Montañez
+:date:     2017-09-01
+:host:     Scientific American
+:doi:      doi:10.1038/scientificamerican0917-50
+:END:
+
+"This article was originally published with the title "Beyond XX and
+XY" in Scientific American 317, 3, 50-51 (September 2017)"
+
+([[https://www.scientificamerican.com/article/beyond-xx-and-xy-the-extraordinary-complexity-of-sex-determination/][link]])
+- *Scientific American* graphic describing the many
+  characteristics which factor into one's *sexual identity*.
+
+- Helpful in indicating the *ambiguous and bimodal *nature of
+  sex/responding to people who believes it's as simple as *XX/XY*
+
+*** Opinion | Why sex is not Binary
+:PROPERTIES:
+:host:     New York Times
+:date:     2018-10-25
+:doctype:  Opinion article
+:author:   ??? biology & gender studies professor
+:END:
+
+([[https://www.nytimes.com/2018/10/25/opinion/sex-biology-binary.html?ref=oembed][link]])
+- NY Times Op-Ed from a professor of biology & gender studies
+
+- Explains the *biological complexity of sex* and the ways in which the
+  *Trump Administration's* attempts to legislate that complexity of of
+  existence is both *immoral and unscientific.*
+
+*** Untangling the Gordian Knot of Human Sexuality
+:PROPERTIES:
+:host:     Gender and the genome
+:date:     2018-07
+:doi:      10.1177/2470289718803639
+:author:   Marianne J. Legato
+:END:
+([[https://www.researchgate.net/publication/328057475_Untangling_the_Gordian_Knot_of_Human_Sexuality_What_Is_the_Biologic_Basis_of_Variations_in_Sexual_Phenotype][link]])
+
+Untangling the Gordian Knot of Human Sexuality: What Is the Biologic
+Basis of Variations in Sexual Phenotype?
+
+- Description of *modern scientific attitudes* towards *human sex*.
+
+- “The view that the world’s population can be separated into a
+  clearly defined dyadic unit of male and female is defunct; not
+  only clinical observations, but molecular biology has established
+  that sexual identity is on a continuum, with an enormous potential
+  for variance”
+
+** Queer People are Still Oppressed 
+And that's why their suicide rate is higher
+*** 2018 LGBTQ Youth Report
+:PROPERTIES:
+:date:     2018
+:host:     Human Rights Campaign
+:END:
+([[https://assets2.hrc.org/files/assets/resources/2018-YouthReport-NoVid.pdf?_ga=2.134619825.1102244158.1526302453-846000759.1523970534][link]])
+
+*HUGE* collection of data concerning difficulties LGBTQ people face,
+to create this study, "Human Rights Campaign Foundation partnered with
+researchers at the University of Connecticut to deploy a comprehensive
+survey capturing the experiences of LGBTQ youth [...]".
+
+- *67% of LGBTQ youth* hear their parents make *negative statements*
+  about LGBTQ people - *rises to 78% if child is in closet*.
+
+- *48% of LGBTQ youth* say their family *makes them feel bad for their
+  identity*
+
+- *This pretty much ends the argument right here*.
+
+*** Suicide and Suicidal Behavior among Transgender Persons
+:PROPERTIES:
+:author:   H. G. Virupaksha, Daliboyina Muralidhar, Jayashree Ramakrishna
+:doi:      10.4103/0253-7176.194908
+:host:     Indian J Psychol Med.
+:date:     2016-11
+:END:
+
+([[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5178031/][link]])
+- Broad international study of *trans suicide rate* (it's quite high).
+
+- “Gender-based victimization, discrimination, bullying, violence,
+  being rejected by the family, friends, and community; harassment by
+  intimate partner, family members, police and public; discrimination
+  and ill treatment at health-care system are the major risk factors
+  that influence the suicidal behavior among transgender persons”.
+
+*** Suicide Thoughts and Attempts Among Transgender Adults
+:PROPERTIES:
+:date:     2019-09
+:author:   Jody L. Herman, Taylor N.T. Brown, Ann P. Haas
+:host:     UCLA School of law, Williams Institute
+:END:
+
+([[https://williamsinstitute.law.ucla.edu/wp-content/uploads/AFSP-Williams-Suicide-Report-Final.pdf][link]])
+- *Massive demographic analysis* which codifies the many *social &
+  institutional factors* which contribute to *trans suicide rates*
+
+- Surprise surprise, discrimination & abuse play a huge role. *Read the
+  summary*:
+
+  - Respondents who experienced discrimination or were a victim of
+    violence were more likely to report suicide thoughts and attempts.
+
+  - Respondents who experienced family rejection were also more likely to
+    report attempting suicide.
+
+  - Access to gender-affirming medical care is associated with a lower
+    prevalence of suicide thoughts and attempts..
+
+*** Impacts of Strong Parental Support for Trans Youth
+:PROPERTIES:
+:date:     2012-10-02
+:host:     Trans Pulse Project
+:END:
+
+([[http://transpulseproject.ca/wp-content/uploads/2012/10/Impacts-of-Strong-Parental-Support-for-Trans-Youth-vFINAL.pdf][link]])
+- Analysis of the ways in which* parental support *affect elements of
+  disadvantage experienced by *transgender youth.*
+
+- Most notably, *strong parental support* decreases the likelihood of a
+  *suicide attempt* within the past year from 57% to* just 4%*.
+
+*** Gender Identity Nondiscrimination Laws in Public Accommodations
+:PROPERTIES:
+:date:     2018-07-23
+:author:   Amira Hasenbush, Andrew R. Flores, Jody L. Herman
+:host:     Sexuality Research and Social Policy
+:END:
+
+Gender Identity Nondiscrimination Laws in Public Accommodations: a
+Review of Evidence Regarding Safety and Privacy in Public Restrooms,
+Locker Rooms, and Changing Rooms
+
+([[https://link.springer.com/article/10.1007%2Fs13178-018-0335-z][link]])
+
+- *Analysis of crime & privacy violations* as they relate to concerns
+  raised by those who advocate for ‘*trans bathroom bills*'
+
+- Analysis indicates there is *no empirical evidence to support these
+  concerns*; such crimes & privacy violations are *exceptionally rare*.
+Calls for trans bathroom bills are *fearmongering*, plain and simple.
+
+*** Decolonizing Transness In Sport Media
+:PROPERTIES:
+:doctype:  Thesis
+:author:   Tammy Rae Matthews
+:date:     2016-11
+:END:
+
+Decolonizing Transness In Sport Media: The Frames And Depictions Of
+Transgender Athletes In Sports Illustrated
+
+([[https://mountainscholar.org/bitstream/handle/10217/178827/Matthews_colostate_0053N_13859.pdf?sequence=1&isAllowed=y][link]])
+  - Interesting (and long) qualitative analysis on the *depiction of
+    transgender people in /Sports// //Illustrated/* over past decades.
+  
+  - Finds disproportionately *negative depictions* (of course).
+  
+  - *Worth reading; probably not going to win you an argument*.
+
+*** Trans Rights Europe & Central Asia Map 2019
+:PROPERTIES:
+:date:     2018-04-21
+:END:
+([[https://tgeu.org/wp-content/uploads/2019/05/MapB_TGEU2019.pdf][link]])
+
+- 16 countries in Europe & Central Asia still *require sterilization*
+  before transgender peoples'gender identity can be *legally recognized*
+
+*** Trump admin tells U.S. embassies they can't fly pride flag on flagpoles
+:PROPERTIES:
+:date:     2019-06-07
+:doctype:  Press article
+:host:     NBC news
+:author:   Josh Lederman
+:END:
+([[https://www.nbcnews.com/politics/national-security/trump-admin-tells-u-s-embassies-they-can-t-fly-n1015236][link]])
+
+"The administration is rejecting requests from U.S. embassies to fly
+the rainbow flag on flagpoles during June, LGBTQ Pride Month, say 3
+U.S. diplomats."
+
+- *Trump Administration rejecting requests* from US embassies to *fly
+  the rainbow pride flag* on embassies'main banner during *Pride Month*
+
+*** New Report on Youth Homeless Affirms that LGBTQ Youth Disproportionately Experience Homelessness
+:PROPERTIES:
+:host:     Human Rights Campaign
+:date:     2017-11-15
+:END:
+([[https://www.hrc.org/blog/new-report-on-youth-homeless-affirms-that-lgbtq-youth-disproportionately-ex][link]])
+
+- *LGBTQ youth* are *120% (2.2x) *as likely to *experience homelessness*
+  as cisgender and heterosexual youth.
+
+- *Up to 40%* of the homeless youth population is* LGBTQ*
+
+- Cited possibility for this discrepancy being LGBTQ youth getting
+  kicked out of the home by *unwelcoming/openly hostile family*.
+
+*** LGBT employment discrimination in the United States
+:PROPERTIES:
+:host:     Wikipedia
+:END:
+
+([[https://en.wikipedia.org/wiki/LGBT_employment_discrimination_in_the_United_States][link]])
+
+- *LGBTQ employment discrimination is still far from a settled issue*.
+
+- A point of note - in 2017, the *Trump Administration* used the
+  Department of Justice to *revoke an Obama-era Title VII policy* which
+  *protected transgender employees from discrimination*.
+
+* Immigration
+** Immigration Doesn't Really Hurt Wages
+*** Rethinking The Effects Of Immigration On Wages
+:PROPERTIES:
+:date:     2006-08
+:author:   Gianmarco I.P. Ottaviano, Giovanni Peri
+:host:     US National Bureau Of Economic Research
+:END:
+
+([[https://www.nber.org/papers/w12497.pdf][link]])
+
+- *National Bureau of Economic Research* paper on the effects
+  immigration has on wages in the United States
+
+- Study contends* previous analyses* on the relationship between
+  immigration and wages *falsely assumed perfect labor substitutability
+  between immigrants and native workers* of similar education levels,
+  distorting results
+
+- Research shows average American wage *RISES due to immigration*, both
+  short-term and long-term
+
+- *Only native demographic whose wages drop are High School dropouts*
+  who suffer a decrease in wages of approximately *~2% short-term,
+  alleviating to ~1.1% over time.*
+
+- Study finds *new immigration does severely impact wages of prior
+  immigrants*, suggesting* lack of substitutability with *natives*.
+
+- Overall, *vast majority of American workers'wages increase from
+  immigration*, High School dropouts (<10% of population) experience a
+  slight* decrease which alleviates with time* (and there is evidence
+  that immigration , too).
+
+*** The impact of immigration on the French labor market
+:PROPERTIES:
+:doi:      10.1016/j.labeco.2014.05.002
+:date:     2014
+:author:   Ortega Javier
+:host:     Labour Economics
+:END:
+
+([[https://sci-hub.do/10.1016/j.labeco.2014.05.002][link]])
+
+The impact of immigration on the French labor market: Why so
+different?
+
+- *Similar research to the above paper*, except conducted on the *French
+  labor market.*
+
+- Findings are *near-identical*; immigration leads to *across-the-board
+  wage increases* for all except a *small minority of low-education
+  native workers*.
+
+- Reaffirms conclusion that there is* low substitutability between
+  native workers and immigrant workers*.
+
+*** The Impact of the Mariel Boatlift on the Miami Labor Market
+:PROPERTIES:
+:author:   David Card
+:date:     1990-01
+:END:
+
+([[https://www.jstor.org/stable/2523702][link]])
+
+- Famous research on the *Mariel Boatlift* and the impact of a *wave
+  of Cuban immigrants (mostly low-skilled)* on the economy of *Miami*.
+
+- Research found essentially *no impact on native wages*, even for
+  *low-skilled workers*, despite the Mariel Boatlift *increasing
+  Miami's labor force by seven percent.*
+
+- Even *former Cuban immigrants* didn't seem to be affected.
+
+** Immigration Is Just Good in General
+*** The Effects of Immigration on the United States’ Economy
+:PROPERTIES:
+:date:     2016-06-27
+:END:
+
+([[https://budgetmodel.wharton.upenn.edu/issues/2016/1/27/the-effects-of-immigration-on-the-united-states-economy][link]]) 
+
+*Extensive summary* on the *effects immigration has on the US
+economy*, with sources
+
+- “While some policymakers have *blamed immigration for slowing U.S.
+  wage growth* since the 1970s, most *academic research finds little
+  long run effect on Americans'wages”*.
+
+- “The available evidence suggests that* immigration leads to more
+  innovation, a better educated workforce, greater occupational
+  specialization, better matching of skills with jobs, and higher
+  overall economic productivity”*
+
+- “Immigration also has a *net positive effect* on combined *federal,
+  state, and local budgets*”
+
+- “Economists generally agree that the *effects of immigration on the
+  U.S. economy are broadly positive*”
+
+** Diversity Doesn't Hurt Social Cohesion
+
+White supremacists will often argue racial diversity leads to less
+social cohesion than racial homogeneity. The data disagrees. Credit to
+Mouthy Infidel ([[https://www.youtube.com/channel/UCTqctWuiqMJBehe1BH0JKtg][link]]) for this research.
+
+*** Ethnic Diversity and Its Effects on Social Cohesion
+:PROPERTIES:
+:doi:      https://doi.org/10.1146/annurev-soc-071913-043309
+:host:     Annual Review of Sociology
+:date:     2014-06
+:author:   Tom van der Meer, Jochem Tolsma
+:END:
+
+([[https://doi.org/10.1146/annurev-soc-071913-043309][link]])
+- *Enormous meta-analysis of 90 cross-sectional studies analyzing
+  relationship between diversity & social cohesion.*
+
+- Vast majority of studies on the subject *fail to prove the
+  relationship* between two variables.
+
+- In fact, study finds *positive relationship* between *inter-ethnic
+  contact & trust* in ethnically heterogeneous communities.
+
+- *Only contrary data *shows *small-scale (intra-neighborhood) trust
+  suffers* with ethnic heterogeneity in *some circumstances,* and even
+  then *only in America*.
+
+- Plurality of data *does not support - and largely contradicts -*
+  assertion that diversity hurts social cohesion.
+
+*** People in more racially diverse neighborhoods are more prosocial
+:PROPERTIES:
+:author:   Nai, Jared, Narayanan, Jayanth, Hernandez, Ivan,Savani, Krishna
+:host:     Journal of Personality and Social Psychology
+:date:     2018-04
+:END:
+
+([[https://psycnet.apa.org/buy/2018-13651-001][link]])
+- Study examining a *range of experiments* meant to gauge the
+  relationship* between diversity and social cohesion.*
+
+- Study finds *all of the experiments* found a *positive relationship
+  between diversity and social cohesion.*
+
+- *Proposed mechanism* is that *diversity *causes people to *identify
+  more broadly with humanity, increasing sociability.*
+  
+*** Declining Trust Amidst Diversity ?
+:PROPERTIES:
+:date:     2008-04-05
+:author:   Abigail Williamson
+:END:
+
+Declining Trust Amidst Diversity ? A Natural Experiment In Lewiston,
+Maine
+
+([[http://www.fisherwilliamson.com/downloads/MPSA040508.FINAL2.pdf][link]])
+
+Longitudinal study comparing the *change in social cohesion over time*
+in an area which *experienced a large increase in diversity* with a
+*comparative control which didn't.*
+
+- The two areas *did not differ significantly* in how their levels of
+  *social cohesion changed over time*, suggesting the increased level of
+  diversity had *no statistically significant impact on social
+  cohesion.*
+
+*** Ethnic Diversity, Economic and Cultural Contexts, and Social Trust
+:PROPERTIES:
+:author:   Conrad Ziller
+:date:     2014-09-15
+:host:     Social Forces
+:doi:      https://doi.org/10.1093/sf/sou088
+:END:
+
+Ethnic Diversity, Economic and Cultural Contexts, and Social Trust:
+Cross-Sectional and Longitudinal Evidence from European Regions,
+2002–2010
+
+([[https://academic.oup.com/sf/article-abstract/93/3/1211/2332107?redirectedFrom=fulltext&login=false][link]])
+
+Another longitudinal study analyzing *changes in trust in 22 European
+countries *between the years *2002 and 2010*.
+
+- Study suggests *immigration often leads to decrease in social trust*,
+  but results were* heavily affected by ethnic polarization & economic
+  stability*.
+
+- With low polarization and a good economy, immigration was shown to
+  actually *increase social trust*.
+
+- Results suggest *it isn't the diversity of immigrants* which lessens
+  trust, but rather the *economic and political context in which they
+  arrive.*
+
+* Holocaust Denial
+
+*There is an enormous body of historical research concerning the
+Holocaust, none of which holocaust deniers care to engage with. They are
+conspiracists, regurgitating already-debunked talking points which
+“question the official narrative”but do not engage with existing
+research. This is because, no matter how tenacious they are in their
+ignorance, their talking points are very easy to disprove. Here are a
+few rebuttals to those talking points, though not all unsubstantiated
+denier claims warranted an academic paper in response.
+
+The Liberal Sanity Project, who helped with this document, has a good
+video on this: [[https://www.youtube.com/watch?v=2_YFgugVhns&t=1s][link]]
+
+** “The estimated number of Jewish deaths in the Holocaust is wildly overinflated.” argument
+- [[https://www.reddit.com/r/AskHistorians/comments/76avmk/how_do_we_estimate_the_number_of_jewish_deaths_in/doco9me/][This extensive and well sourced post]] explains how modern historians
+  arrived at their estimation of Jewish Holocaust deaths (5.4 - 6.2
+  million).
+
+- There is lively academic debate within that range (Nazis kept poor
+  records so we will never have a completely accurate answer) but no
+  serious historian believes in any figure which deviates significantly
+  from that range.
+
+- A passage from /Denying History/ - /Historians are the ones who should
+  be described as revisionists. To receive a Ph.D. and become a
+  professional historian, one must write an original work with research
+  based on primary documents and new sources, reexamining or
+  reinterpreting some historical event---in other words, revising
+  knowledge about that event only. This is not to say, however, that
+  revision is done for revision's sake; it is done when new evidence or
+  new interpretations call for a revision./
+
+- Historians have revised and continue to revise what we know about the
+  Holocaust. But their revision entails refinement of detailed knowledge
+  about events, rarely complete denial of the events themselves, and
+  certainly not denial of the cumulation of events known as the
+  Holocaust.
+  
+- Holocaust deniers claim that there is a force field of dogma around the
+  Holocaust---set up and run by the Jews themselves---shielding it from
+  any change. Nothing could be further from the truth. Whether or not the
+  public is aware of the academic debates that take place in any field of
+  study, Holocaust scholars discuss and argue over any number of points as
+  research continues. Deniers do know this.
+
+** arguments of Zyklon B
+Zyklon B is just a delousing agent, it can’t kill people! It was used
+to clean clothes! Also, even if it was lethal, why do some “gas
+chambers” [[https://i.imgur.com/X5n9l6f.jpg][lack the blue stain Zyklon B leaves on walls?]]”
+
+- First of all, Zyklon B can absolutely be used to kill. Just Wikipedia
+  it.
+
+- Secondly, Zyklon B must be used in higher concentrations to kill lice
+  than it need be to kill humans. It's more economical to use less gas,
+  so the blue gas residue wouldn't form as easily in gas chambers.
+
+- Third, Zyklon B residue can be easily cleaned from walls, and Nazis
+  made every effort to destroy evidence of the Holocaust as Soviet
+  soldiers marched in.
+
+- Fourth, even this stupid image acknowledges there are traces of
+  (again, easily-cleanable) Zyklon B in the gas chamber.
+
+** “The Auschwitz memorial plaque death figure suddenly CHANGED from 4 million dead to 1.5 million dead. What are they hiding?”
+([[https://i.imgur.com/P1scrSN.jpg][link]])
+
+- The 4 million figure was initially published by the Soviet State
+  Commission in 1945, long before any reliable estimates were available.
+
+- As new information is made available, historians revise general
+  knowledge of the subject. This is how the field of history works.
+
+** “The “gas chamber” doors were made from WOOD. They clearly weren’t meant to contain people.”
+([[https://i.imgur.com/iQ4blnJ.jpg][link]])
+
+- The wooden doors presented in these images led to delousing rooms, not
+  gas chambers. These are literally just pictures of wooden doors. It is
+  not known what the original gas chamber doors looked like because
+  Nazis destroyed those facilities before Soviet soldiers arrived.
+
+- [[https://i.imgur.com/A0T8lNZ.jpg][this door]], however, was found in the building yard of Auschwitz and is believed
+  to be the kind used in their gas chambers.
+
+- The doors may have been destroyed, but the receipts for those doors
+  were not. [[https://i.imgur.com/1ZRz9FO.png][This receipt]] calls for an order /“on 6/3/1943 concerning
+  the delivery of a gas tight door 100 x 192 cm for cellar I of
+  Krematorium III, to be produced to the identical pattern and
+  dimensions as the cellar door of Krematorium II which is situated
+  opposite, with peephole of double 8 mm glass, with rubber sealing
+  strip and frame.”/
+
+** “The camp crematoriums could not have handled that many bodies! It takes 4-8 hours to cremate a body.”
+
+- It takes 1-5 hours to cremate a /civilian/ body at a /professional
+  service/. It takes far less time to cremate a body in an industrial
+  furnace when speed takes priority over cleanliness and decency.
+
+- Also, Holocaust victims were not cremated one at a time. Toph and Sons
+  (the makers of the Auschwitz crematoriums) claimed their units could
+  handle 4-6 bodies an hour.
+
+- /The bodies were ". . . sorted according to their combustibility: for
+  the bodies of the well-nourished were to help burn the emaciated.
+  Under the direction of the Kapos, the bearers began sorting the dead
+  into four stacks. The largest consisted mainly of strong men, the next
+  in size of women, then came children, and lastly a stack of dead
+  Mussulmans, emaciated and nothing but skin and bones. This technique
+  was called 'express work,' a designation thought up by the
+  Kommandoführers and originating from experiments carried out in
+  crematorium 5 in the autumn of 1943. The purpose of these experiments
+  was to find a way of saving coke. . . . Thus the bodies of two
+  Mussulmans were cremated together with those of two children or the
+  bodies of two well-nourished men together with that of an emaciated
+  woman, each load consisting of three, or sometimes, four bodies."
+  Filip Müller, Sonderkommando - Filip Müller/
+
+- When crematoriums failed, they used burning pits.
+
+** “The Red Cross visited a “death camp” and found that it wasn’t inhumane!”
+
+- The Red Cross inspectors were not allowed to visit the parts of the
+  camp intended for genocide and the had Nazis prepared their camp for
+  scrutiny, deporting the near-dead and sanitizing the presented
+  facilities.
+
+- "I repeatedly witnessed guided tours of civilians and also of
+  commissions of the Red Cross and other parties within the camp, and I
+  was able to ascertain that the camp leadership arranged it masterfully
+  to conduct these guided tours in such a way that the people being
+  guided around did not see a*hing about inhuman treatment. The main
+  camp was shown only and in this main camp there were so-called show
+  blocks, particularly block 13, that were especially prepared for such
+  guided tours and that were equipped like a normal soldier's barracks
+  with beds that had sheets on them, and well-functioning washrooms." -
+  SS-Untersturmführer Hans Münch
+
+- Additionally, that letter tallying camp deaths is attributable to the
+  International Tracing Service, not the Red Cross. They tally
+  estimates, not records, and are not historically relevant.
+
+** “The prisoners at Auschwitz had a swimming pool! And a band! And a brothel! And a goddamn soccer team! And a dentist! Some prison, huh?”
+([[https://jan27.org/wp-content/uploads/2015/01/auschwitz-swimming-pool-ladder.jpg][link]])
+- All these amenities were present at Auschwitz I - the main camp,
+  which held POWs, not Holocaust victims. The infamous extermination
+  camp was Auschwitz-Birkenau. Also, the band and “pool”were for the
+  guards exclusively. The “pool's”main purpose [[http://holocaustcontroversies.blogspot.com/2017/05/rebutting-twitter-denial-most-popular.html#auschwitzswimmingpool][was actually that of a
+  backup water reservoir]].
+
+- Even if these amenities were present at Auschwitz-Birkenau, it
+  wouldn't disprove anything concerning the Holocaust.
+
+* Miscellaneous
+
+- [[https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-wellbeing-of-children-with-gay-or-lesbian-parents/][link]]
+  - *ENORMOUS* meta-meta-analysis on the *wellbeing of children* with
+    *same-sex parents.*
+  
+  - *75 of 79 studies affirmed *children of same-sex couples* fare no
+    worse* than children of opposite-sex couples.
+  
+  - The few dissenting studies acknowledge *social prejudice may explain
+    worse outcomes.*
+  
+  - *OVERWHELMING academic consensus *from* three decades* of study.
+
+- [[https://www.pewsocialtrends.org/2019/01/17/generation-z-looks-a-lot-like-millennials-on-key-social-and-political-issues//][link]]
+
+  - Contrary to common belief, *Generation Z is more left-leaning than
+    any prior generation of Americans*.
+
+  - Generation Z people are *most likely* to - know a person who uses
+    *they/them pronouns*, recognize the *systematic mistreatment of
+    black people*, believe the government should play a role in
+    *addressing social issues*, acknowledge humans'role in *climate
+    change*, champion *racial/ethnic diversity*, and support
+    *same-sex/interracial marriage*.
+
+[[https://scholarship.law.columbia.edu/cgi/viewcontent.cgi?article=3660&context=faculty_scholarship][link]]
+
+[[https://www.nber.org/papers/w27408.pdf][link]]
+
+[[https://www.bjs.gov/index.cfm?ty=pbdetail&iid=4200][link]]
+
+[[https://users.nber.org/~sewp/events/2005.01.14/Bios+Links/Good-rec2-Steele_&_Aronson_95.pdf][link]]
+
+[[https://www.guttmacher.org/sites/default/files/pdfs/pubs/journals/MQ-Frost_1468-0009.12080.pdf][link]]
+
+[[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.915.9087&rep=rep1&type=pdf][link]]
+
+[[https://www.law.umich.edu/special/exoneration/Documents/Race_and_Wrongful_Convictions.pdf][link]]
+
+[[https://onlinelibrary.wiley.com/doi/abs/10.1111/pops.12670][link]]
+
+[[https://www.guttmacher.org/sites/default/files/pdfs/pubs/journals/MQ-Frost_1468-0009.12080.pdf][link]]
+
+[[https://www.washingtonpost.com./news/monkey-cage/wp/2018/03/16/the-campus-free-speech-crisis-is-a-myth-here-are-the-facts/][link]]
+
+[[https://journals.sagepub.com/doi/full/10.1177/1948550620916071][link]]
+
+[[https://link.springer.com/article/10.1007/s10508-019-1453-2][link]]
+
+[[https://scholarship.law.columbia.edu/cgi/viewcontent.cgi?article=3660&context=faculty_scholarship][link]]
+
+* Extremely peer-criticized studies
+
+- [[https://www.ncbi.nlm.nih.gov/pubmed/21364939][link]]
+  - *Commonly cited by transphobes* to indicate sexual reassignment
+    surgery *HARMS trans people*, increases risk of suicide.
+  
+  - *BAD DATA*. Control group for post-transition trans individuals was
+    CISGENDER people - *post-SRS trans participants weren't compared to
+    pre-SRS trans participants, they were compared to cis paticipants.*
+    Methodology *DOES NOT PROVE *intended point.
+
+- [[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202330][link]]
+  - *Commonly cited by transphobes* to indicate transness spreads
+    socially, that exposure to trans material might encourage youth to be
+    trans. *“Rapid Onset Gender Dysphoria”*.
+
+  - *BAD DATA*. This study polled *PARENTS, not the actual children*, and
+    those polls were taken online, /and/ those sites were *biased by
+    nature* - ‘/4thwavenow, transgendertrend, y*ls/'
+  
+  - *Horrendously, pathetically inept data collection.* Anyone who cites
+    this *should* *be laughed at.*

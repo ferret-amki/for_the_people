@@ -1,0 +1,73 @@
+* Introduction
+Hi, I'm doing this document as a sort of FAQ to answer to common
+misconceptions on leftist/radical leftist views, but also as a
+reference for myself: I'm tired of writing the same stuff over and
+over, so here I can just copy paste common points.
+
+PDF and HTML documents can be seen if you look at the "exports" folder
+of this project.
+
+* Do you want to help me?
+You can send me your writings as a document text to
+amki_mail@proton.me
+
+If you want to send me a reference, check the format in *The
+references lists* subsection of the section *Main scheme*.
+
+or you can just make a pull request on github if you know how to do
+
+Then, we can discuss together if it's worth adding or not.
+* Do you want to ask a question/propose a correction?
+It would be a pleasure, just send an email to 
+amki_mail@proton.me
+
+* Main scheme
+** The answers/ideas
+If you want to express an idea or answer a question/argument, then you
+can write three types of answers:
+- the short answer, which is adapted for a quick chat response,
+  when you don't expect your interlocutor to read a 2 page
+  essay. This answer should expect your interlocutor to be in the
+  dominant (2022-08-22) worldview, thus, to not be familiar with
+  marxist terms (like means of productions for instance)
+- the long answer, which is for cases where you really want to explain
+  the concept with more details/references and explanations
+- the essay, a deep dive explaining very deeply why you think that
+  way, with a lot of references (don't feel ashamed of copy pasting
+  external material *if you cite it!*)
+- the "read/look this" answer, where you give material for the reader
+  to look at to understand your point of view (and stuff to go deeper
+  if you have some)
+** The references lists
+A list scientific articles or press articles used to show how some
+points of view can be solidly backed up with science/facts.
+
+The format should be like this: (if you want to send me something)
+
+#+begin_example
+* The title of the article (link of the article)
+:PROPERTIES:
+:host:     the website or journal hosting the information
+:language: to be specified if other than english
+:source:   web link or book or...
+:doctype:  thesis, press/scientific article...
+:author:   person(s) who wrote the content you link
+:doi:      (if it's a scientific article)
+:date:     2022-08-29
+:END:
+
+([[weblink_of_your_reference][link]])
+
+general and critical information about the article (date of
+publication, population or time period used for statistics inside the
+article, is it a meta-analysis of different experiments or an
+experiment...)
+
+- main point 1 of the article
+- main point 2 of the article
+- ect...
+#+end_example
+
+A note: yes, all my references in the lists do not respect this
+format, it's because I got a lot of them from other sources, and I
+just didn't have the time to format them well.
