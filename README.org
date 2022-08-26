@@ -45,7 +45,7 @@ points of view can be solidly backed up with science/facts.
 The format should be like this: (if you want to send me something)
 
 #+begin_example
-* The title of the article (link of the article)
+* The title of the article
 :PROPERTIES:
 :host:     the website or journal hosting the information
 :language: to be specified if other than english
@@ -56,7 +56,13 @@ The format should be like this: (if you want to send me something)
 :date:     2022-08-29
 :END:
 
-([[weblink_of_your_reference][link]])
+([[@url@][link]])
+
+(@url@ should be replaced with the actual url of your ressource)
+
+if the title is very long, you can seperate it in two (at a point
+where it's not too harmful for the comprehension of the readers) and
+put the entire title here, just after the link
 
 general and critical information about the article (date of
 publication, population or time period used for statistics inside the
